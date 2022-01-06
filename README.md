@@ -30,7 +30,39 @@
 - Problem 15 **[Link](https://www.google.com/url?q=https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1&sa=D&source=editors&ust=1641043919444000&usg=AOvVaw2hhoO7h3FtCcoHpbmwu34e)**
 </details>
 
----
-
   
-  </details>
+<details>
+ <summary> Amazon </summary>
+ 
+ - Problem 1 **[Link](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1)**
+ 
+ - Problem 2 **[Link](https://leetcode.com/problems/longest-mountain-in-array/)**
+ 
+ - Problem 3 **[Link](https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/)**
+ 
+ - Problem 4 **[Link](https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1/)**
+ 
+ - Problem 5 **[Link](https://practice.geeksforgeeks.org/problems/phone-directory4628/1/)**
+ 
+ - Problem 6 **[Link](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)**
+ 
+ - Problem 7 **[Link](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)**
+ 
+ - Problem 8 **[Link](https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/)**
+ 
+ - Problem 9 **[Link](https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/)**
+ 
+ - Problem 10 **[Link](https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1)**
+ 
+ - Problem 11 **[Link](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)**
+ 
+ - Problem 12 **[Link](https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/)**
+ 
+ - Problem 13 **[Link](https://leetcode.com/problems/rotting-oranges/)**
+ 
+ - Problem 14 **[Link](https://practice.geeksforgeeks.org/problems/burning-tree/1/)**
+ 
+ - Problem 15 **[Link](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)**
+ 
+ </details>
+ 
