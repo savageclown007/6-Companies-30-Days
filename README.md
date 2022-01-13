@@ -34,6 +34,7 @@
 <details>
  <summary> Amazon </summary>
  
+ 
  - Problem 1 **[Link](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1)**
  
  - Problem 2 **[Link](https://leetcode.com/problems/longest-mountain-in-array/)**
@@ -64,5 +65,40 @@
  
  - Problem 15 **[Link](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)**
  
+ </details>
+ 
+<details>
+ <summary> Microsoft </summary>
+
+ 
+  - Problem 1 **[Link](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)**
+ 
+ - Problem 2 **[Link](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)**
+ 
+ - Problem 3 **[Link](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/)**
+ 
+ - Problem 4 **[Link](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)**
+ 
+ - Problem 5 **[Link](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)**
+ 
+ - Problem 6 **[Link](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/)**
+ 
+ - Problem 7 **[Link](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/)**
+ 
+ - Problem 8 **[Link](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/)**
+ 
+ - Problem 9 **[Link](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/)**
+ 
+ - Problem 10 **[Link](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/)**
+ 
+ - Problem 11 **[Link](https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/)**
+ 
+ - Problem 12 **[Link](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)**
+ 
+ - Problem 13 **[Link](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)**
+ 
+ - Problem 14 **[Link](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/)**
+ 
+ - Problem 15 **[Link](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/)**
  </details>
  
